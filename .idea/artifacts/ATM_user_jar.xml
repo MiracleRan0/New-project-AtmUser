@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ATM_user:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ATM_user_jar</output-path>
+    <root id="archive" name="ATM_user.jar">
+      <element id="module-output" name="ATM_user" />
+      <element id="module-test-output" name="ATM_user" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Reponsitory/com/microsoft/sqlserver/mssql-jdbc/12.6.1.jre11/mssql-jdbc-12.6.1.jre11.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: com.microsoft.sqlserver:mssql-jdbc:12.6.1.jre11" />
+    </root>
+  </artifact>
+</component>
